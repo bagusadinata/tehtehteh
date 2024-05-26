@@ -9,8 +9,14 @@ tehtehteh is a simple Parallax scrolling website trend where background content 
 ## OSS NPM
 [LINK](https://www.npmjs.com/package/tehtehteh)
 
+## Instalation
+
+```bash
+npm install tehtehteh 
+```
+
+
 ### Example Syntax
-#### Example Syntax
 
 * First, run the development server:
 
