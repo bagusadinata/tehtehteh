@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "teanager": "^1.1.2"
+    "tehtehteh": "^1.1.6"
   },
-  "name": "teanager",
-  "version": "1.1.2",
+  "name": "tehtehteh",
+  "version": "1.1.6",
   "description": "teanager is a project aimed to assist you in accomplishing tasks using Vue.js or any other workspaces.",
   "main": "index.js",
   "devDependencies": {},
